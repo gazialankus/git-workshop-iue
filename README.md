@@ -2,6 +2,6 @@
 
 Serverdan satir
 uoaueoa
-Beni oku çunkü türkçe
+Readme çunkü türkçe
 
 devamı burada
