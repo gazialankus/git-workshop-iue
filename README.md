@@ -1,3 +1,5 @@
 # git-workshop-iue
 
-Readme
+Read me
+
+This is a great project says the server
