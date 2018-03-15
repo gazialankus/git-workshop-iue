@@ -8,6 +8,5 @@ public class Main {
         int sum = e.add(5, 6);
 
         System.out.println(sum);
-        System.out.println("new line");
     }
 }
