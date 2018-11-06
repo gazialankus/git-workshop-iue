@@ -1,7 +1,3 @@
 # git-workshop-iue
 
-Serverdan satir
-uoaueoa
-Readme çunkü türkçe
-
-devamı burada
+Please take a look at the slides that I used during this workshop. https://github.com/gazialankus/git-workshop-iue/blob/master/Git%20Workshop.pptx
