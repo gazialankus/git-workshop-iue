@@ -25,7 +25,9 @@ public class Employee {
         System.out.println("line2");
         System.out.println("line2");
         System.out.println("change 2");
-        return a + b;
+        return a + b; // comment
+        // another comment
+        // ok
     }
 
 }
