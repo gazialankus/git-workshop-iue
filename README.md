@@ -8,4 +8,4 @@ We are reusing this on November 12th 2019.
 
 
 readme onat tarafindan degisirildi.
-son satira yeni yazi girildi.onat cakir
+son satira yeni yazi girildi. can taspinar
